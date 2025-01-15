@@ -81,6 +81,7 @@ Select the model that achieves the best performance on the testing set 🥇.
 
 Create visualizations (ROC curves) to compare the performance of different models using sklearn.metrics.roc_curve and sklearn.metrics.auc 📉.
 Interpret the results, providing insights into the most important features for classification based on feature importance scores from the chosen model 🔍.
+![mushroom](https://github.com/user-attachments/assets/683ef8fc-0c01-4d42-a66d-9b3a77276ca8)
 
 # 🗂️ Project Structure
 
